@@ -40,6 +40,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Universal alert thresholds** with 3-tier escalation (Critical/Urgent/Advisory)
 - **Device catalog** with specifications for 10+ monitoring devices
 - **Comorbidity matrix** covering 25+ disease combinations
+- **Nurse-driven response protocols** - Operational workflows for RNs responding to vital alerts (CHF, COPD, HTN)
+  - Extracted from Carepath-Logic.pdf via OCR
+  - Step-by-step alert response procedures
+  - PRN medication instructions
+  - Escalation decision trees
 - **7 disease-specific questionnaires** with scoring algorithms:
   - CHF: KCCQ-12 (Kansas City Cardiomyopathy Questionnaire)
   - COPD: CAT (COPD Assessment Test)
@@ -75,11 +80,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - NIH COVID-19 Treatment Guidelines 2023
 
 ### File Statistics
-- Total markdown files: 28
-- Total lines of clinical content: ~8,800
+- Total markdown files: 34 (28 from Carepath-Prod.pdf + 1 from Carepath-Logic.pdf + 3 QA files + 2 documentation files)
+- Total lines of clinical content: ~12,000+
 - Disease protocols: 14 (7 acute + 7 post-acute)
 - Questionnaires: 7
-- Shared reference files: 7
+- Shared reference files: 8 (alert-thresholds, devices, comorbidity-matrix, nurse-response-protocols + 4 others)
+- QA scenarios: 20 (10 acute + 10 post-acute)
+- Example conversations: 5
 
 ### Quality Metrics
 - 30-day readmission targets: <20% (vs national ~25% for CHF)
