@@ -209,7 +209,6 @@ carepath-skills/
 ├── LICENSE                            # Apache 2.0 license
 ├── CONTRIBUTING.md                    # Contribution guidelines
 ├── Carepath-Prod.pdf                  # Source SOPs (reference)
-├── Carepath-Prod.txt                  # Extracted text from PDF
 ├── .opencode/
 │   └── skills/
 │       ├── carepath-acute/            # Acute care skill
@@ -500,11 +499,11 @@ These skills provide clinical decision support based on published guidelines. Th
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR-USERNAME/carepath-skills/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR-USERNAME/carepath-skills/discussions)
-- **Email**: [your-email@example.com]
+- **Issues**: [GitHub Issues](https://github.com/chenhaodev/carepath-skills/issues)
+- **Email**: [chenhaomails@gmail.com]
 
 **OpenCode Community**:
+
 - [OpenCode Documentation](https://opencode.dev/docs)
 - [OpenCode Discord](https://discord.gg/opencode)
 
@@ -522,11 +521,12 @@ These skills provide clinical decision support based on published guidelines. Th
 - Centers for Disease Control and Prevention (CDC)
 
 **Technology**:
+
 - OpenCode framework by [OpenCodeDev]
-- Qwen-Pro by Alibaba Cloud
 
 **Inspiration**:
-- Carepath-Prod.pdf source document (original clinical SOPs)
+
+- Carepath-Prod source document (original clinical SOPs)
 - Hospital-at-home pioneers (Johns Hopkins, Mount Sinai, Brigham and Women's)
 - Care Transitions Intervention (CTI) model
 - Project RED (Re-Engineered Discharge)
