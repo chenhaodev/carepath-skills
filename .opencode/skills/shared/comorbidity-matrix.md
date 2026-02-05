@@ -377,6 +377,124 @@ Plan:
 
 ---
 
+## Active Cancer + Comorbidities
+
+### Cancer + Diabetes
+
+**Overlapping Concerns**:
+- Hyperglycemia risk: Steroids (dexamethasone), stress response, pancreatic cancer
+- Infection risk: Additive (neutropenia + diabetic immunosuppression)
+- Neuropathy: Distinguish diabetic vs. chemotherapy-induced peripheral neuropathy (CIPN)
+
+**Modified Monitoring**:
+- Blood glucose: Check daily if on steroids (target <180 mg/dL)
+- Foot exams: Weekly (cumulative neuropathy risk)
+- Infection screening: Lower threshold for antibiotic use
+
+**Alert Threshold Modifications**:
+- Glucose >250 mg/dL → Endocrine consult (steroid adjustment)
+- New foot ulcer → Immediate podiatry referral (impaired healing)
+
+**Reference**: [`../carepath-oncology/references/symptom-neuropathy.md`](../carepath-oncology/references/symptom-neuropathy.md)
+
+---
+
+### Cancer + CHF (Congestive Heart Failure)
+
+**Overlapping Concerns**:
+- Fluid overload: IV hydration (chemo) vs. fluid restriction (CHF)
+- Cardiotoxicity: Anthracyclines (doxorubicin), trastuzumab, radiation
+- Dyspnea: Distinguish cardiac vs. pulmonary vs. anemia
+
+**Modified Monitoring**:
+- Daily weights: Critical (detect both fluid overload AND cachexia)
+- BNP/NT-proBNP: Baseline and periodic (cardiotoxicity monitoring)
+- ECHO: Before/during cardiotoxic chemo
+
+**Treatment Modifications**:
+- IV hydration: Slower rates, monitor for volume overload
+- Diuretics: May need increased doses during chemo hydration
+- Oxygen: Supplemental O2 for anemia-related dyspnea (Hgb <8 g/dL)
+
+**Shared Devices**:
+- Weight scale (daily)
+- BP monitor
+- Pulse oximeter
+
+**Alert Prioritization**:
+- New dyspnea: Assume cardiac until proven otherwise (PE also on differential)
+- Weight gain >2 lbs/day: Hold IV hydration, increase diuretics
+
+**Reference**: [`../carepath-oncology/references/symptom-dyspnea.md`](../carepath-oncology/references/symptom-dyspnea.md)
+
+---
+
+### Cancer + COPD
+
+**Overlapping Concerns**:
+- Dyspnea: Baseline COPD vs. pneumonia vs. PE
+- Infection risk: Additive (neutropenia + COPD exacerbations)
+- Steroid use: Chemotherapy protocols often include dexamethasone
+
+**Modified Monitoring**:
+- SpO2: Baseline may be 88-92% (do not over-oxygenate)
+- Respiratory rate: More sensitive indicator than SpO2
+- Sputum color: Green/yellow = infection (lower threshold for antibiotics)
+
+**Alert Threshold Modifications**:
+- SpO2 <88% (if baseline 92-94%) OR <85% (if baseline 88-90%) → Urgent evaluation
+- Fever + increased sputum → Assume pneumonia (febrile neutropenia protocol)
+
+**Reference**: [`../carepath-oncology/references/symptom-febrile-neutropenia.md`](../carepath-oncology/references/symptom-febrile-neutropenia.md)
+
+---
+
+### Cancer + Chronic Kidney Disease (CKD)
+
+**Overlapping Concerns**:
+- Nephrotoxicity: Cisplatin, methotrexate, ifosfamide
+- Hydration balance: Chemo requires aggressive hydration vs. CKD fluid restriction
+- Drug dosing: Renally-cleared agents need adjustment
+
+**Modified Monitoring**:
+- Creatinine: Before each chemo cycle
+- Electrolytes: K+, Mg2+, PO4 (platinum agents cause wasting)
+- Urine output: Target >100 mL/hr during nephrotoxic chemo
+
+**Treatment Modifications**:
+- Chemo dose reduction: If CrCl <60 mL/min (agent-specific)
+- Hydration: Coordinate with nephrologist (may need dialysis timing adjustment)
+
+**Alert Threshold Modifications**:
+- Creatinine >2x baseline → HOLD nephrotoxic chemo, notify oncologist
+
+---
+
+### Cancer + Depression/Anxiety
+
+**Overlapping Concerns**:
+- Cancer-related distress: 40% of cancer patients have clinically significant distress
+- Medication interactions: SSRIs + antiemetics (serotonin syndrome risk)
+- Suicide risk: 2x higher in cancer patients vs. general population
+
+**Modified Monitoring**:
+- Distress Thermometer: Every visit (score ≥4 = significant)
+- PHQ-9: Monthly (or with mood change)
+- C-SSRS: If ANY suicidal ideation
+
+**Treatment Considerations**:
+- SSRIs: Preferred for comorbid depression + pain (duloxetine for CIPN)
+- Benzodiazepines: AVOID (fall risk, especially with CIPN)
+- Psychotherapy: CBT + pharmacotherapy superior to either alone
+
+**Alert Prioritization**:
+- Suicidal ideation: ALWAYS high priority (use C-SSRS protocol)
+- Worsening depression after chemo: May be steroid-induced (dexamethasone)
+
+**Reference**: [`../carepath-oncology/references/symptom-distress.md`](../carepath-oncology/references/symptom-distress.md)
+
+---
+
 ## References
 
 - American Heart Association/American College of Cardiology Multimorbidity Statement

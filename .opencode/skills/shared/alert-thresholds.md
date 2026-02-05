@@ -17,6 +17,54 @@ This reference document provides standardized vital sign alert thresholds used a
 | **Weight Gain** | — | > 0.9 kg/day OR > 2.3 kg/week | kg | Fluid retention, volume overload |
 | **Biovitals Index** | — | > 0.7 | index | Composite risk score from wearable devices |
 
+## Oncology-Specific Alert Thresholds
+
+### Fever in Immunosuppressed Patients
+
+| Parameter | Threshold | Clinical Significance | Action |
+|-----------|-----------|----------------------|--------|
+| **Temperature (Neutropenic)** | ≥38.0°C (100.4°F) single reading OR ≥37.5°C sustained >1 hour | Febrile neutropenia - medical emergency | **IMMEDIATE ED referral + Notify oncologist + Blood cultures + Antibiotics within 60 min** |
+| **Temperature + ANC** | Temp ≥38°C AND ANC <500 | High-risk febrile neutropenia | **Admit to hospital + Empiric broad-spectrum antibiotics** |
+
+**Note**: For cancer patients on active chemotherapy (within 2-4 weeks), use neutropenic fever thresholds even if recent ANC is unknown.
+
+### CTCAE-Based Symptom Severity Alerts
+
+The Common Terminology Criteria for Adverse Events (CTCAE v5.0) provides grading for chemotherapy/radiation toxicity:
+
+| CTCAE Grade | Severity | Functional Impact | Typical Action |
+|-------------|----------|-------------------|----------------|
+| **Grade 1** | Mild | Asymptomatic or mild symptoms | Patient education, monitor |
+| **Grade 2** | Moderate | Minimal intervention indicated, limiting instrumental ADL* | Specialist referral PRN, pharmacologic measures |
+| **Grade 3** | Severe | Medically significant, limiting self-care ADL** | Medical intervention, hospitalization often indicated |
+| **Grade 4** | Life-threatening | Urgent intervention required | **EMERGENCY - Immediate ED referral** |
+
+*Instrumental ADL: shopping, cooking, managing finances
+**Self-care ADL: bathing, dressing, eating
+
+### Oncology Red Flags (Grade 4 Events)
+
+**ANY of the following = IMMEDIATE EMERGENCY**:
+- Fever ≥38°C in immunosuppressed patient
+- SpO2 ≤94% at rest
+- Severe pain (8-10/10) uncontrolled by medication
+- New neurological deficits (spinal cord compression suspect)
+- Bloody emesis or melena (GI bleeding)
+- Suicidal ideation with plan/intent (C-SSRS High Risk)
+- No bowel movement >3 days + severe abdominal pain (obstruction)
+- Confusion/altered mental status
+
+### Lab-Based Alert Thresholds (Cancer Patients)
+
+| Lab | Critical Low | Critical High | Action |
+|-----|--------------|---------------|--------|
+| **ANC (Absolute Neutrophil Count)** | <500 cells/µL | - | High infection risk, avoid crowds/sick contacts |
+| **Platelets** | <50,000/µL | - | Bleeding risk, avoid NSAIDs, contact sports |
+| **Hemoglobin** | <8 g/dL | - | Transfusion consideration |
+| **Creatinine** | - | >2x baseline | Nephrotoxic chemo dose adjustment |
+
+**Reference**: See [`../carepath-oncology/SKILL.md`](../carepath-oncology/SKILL.md) for symptom-specific thresholds.
+
 ## Disease-Specific Threshold Notes
 
 ### Congestive Heart Failure (CHF)

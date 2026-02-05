@@ -438,6 +438,65 @@
 
 ---
 
+## Oncology-Specific Response Protocols
+
+### Febrile Neutropenia Protocol (MEDICAL EMERGENCY)
+
+**Trigger**: Temperature ≥38°C in patient on active chemotherapy OR known neutropenia (ANC <1000)
+
+**Immediate Actions** (within 15 minutes):
+1. **DO NOT** wait for lab confirmation of neutropenia
+2. Notify oncology team immediately
+3. Direct patient to nearest Emergency Department
+4. If patient calls from home:
+   - Advise: "Go to Emergency now, do not wait"
+   - Inform ED of incoming febrile neutropenia patient
+   - Notify oncologist on-call
+
+**ED Handoff** (ensure communicated):
+- "Patient on chemotherapy with fever - FEBRILE NEUTROPENIA PROTOCOL"
+- Recent chemo regimen and date
+- Baseline ANC if known
+- Allergies (especially to antibiotics)
+
+**Goal**: Door-to-antibiotic time <60 minutes ("Golden Hour")
+
+**Reference**: See [`../carepath-oncology/references/symptom-febrile-neutropenia.md`](../carepath-oncology/references/symptom-febrile-neutropenia.md)
+
+---
+
+### Suicide Risk Response Protocol (C-SSRS-Based)
+
+**Trigger**: Positive screening on Columbia-Suicide Severity Rating Scale (C-SSRS)
+
+| Risk Level | Criteria | Response | Timeline |
+|------------|----------|----------|----------|
+| **🔴 HIGH RISK** | Ideation + Plan + Intent OR Recent attempt OR Preparatory behavior | 1. Call 911 for ambulance transport<br>2. DO NOT LEAVE PATIENT ALONE<br>3. Notify oncologist + MSW/psychologist immediately<br>4. Remove means (medications, sharps) | **IMMEDIATE** |
+| **🟠 MODERATE RISK** | Ideation + Method, no specific plan OR Past attempt (>1 month ago) | 1. Same-day psychiatry consult<br>2. Create safety plan<br>3. Notify family/support person<br>4. Remove access to means<br>5. Daily follow-up until psychiatry seen | **Same day** |
+| **🟡 LOW RISK** | Passive ideation, no plan or intent | 1. MSW/psychologist referral<br>2. Provide crisis hotline number<br>3. Safety assessment<br>4. Follow-up within 48 hours | **Within 48h** |
+
+**Crisis Resources**:
+- National Suicide Prevention Lifeline: 988 (US)
+- Singapore: Samaritans of Singapore (SOS) 1-767
+
+**Reference**: See [`../carepath-oncology/references/symptom-distress.md`](../carepath-oncology/references/symptom-distress.md)
+
+---
+
+### Immunosuppressed Patient Infection Protocol
+
+**Trigger**: ANY infection symptom in patient on chemotherapy within 4 weeks
+
+| Symptom | Immunosuppressed* | Non-Immunosuppressed |
+|---------|-------------------|----------------------|
+| **Fever, Cough, Diarrhea, Dysuria** | → Chemo Review Clinic OR Emergency (if after hours) | → Polyclinic OR Emergency (if severe) |
+
+*Immunosuppressed = Active chemotherapy, stem cell transplant recipient, high-dose steroids
+
+**Rationale**: Infections progress rapidly in immunosuppressed patients. Do not delay with "wait and see" approach.
+
+---
+
 ## Universal Nursing Principles Across All Protocols
 
 ### Documentation Requirements
